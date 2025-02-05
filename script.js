@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Asignar función de clic al botón "Sí"
     yesBtn.addEventListener('click', function() {
-        alert("Ella juega volleyball y yo le llegue al torneo, te quiero Gera.");
+        alert("te quiero 3000 mil millones más Mychell");
     });
 
     // Asignar evento de movimiento al botón "No"
